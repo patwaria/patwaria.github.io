@@ -25,7 +25,7 @@ Understanding the error behavior in large scale HPC clusters @LLNL:
 
 **Past:**
 
-* [Tennis game analysis using wearable sensors data]()
+* [Tennis game analysis using wearable sensors data](./papers/sensors15.pdf)
 * Routing in DTNs with Directional Antennas
 
 # Publications and Patents
