@@ -33,5 +33,5 @@ Networking:
 # Publications and Patents
 
 [METHOD AND DEVICE FOR GENERATING DATA REPRESENTING STRUCTURE OF ROOM](http://www.freepatentsonline.com/20150347638.pdf)<br>
-**Ayush Patwaru**, Gaurav Mishra, Rupika Srivastava, Aloknath De, Deepraj Patkar<br>
+**Ayush Patwari**, Gaurav Mishra, Rupika Srivastava, Aloknath De, Deepraj Patkar<br>
 United States Patent Application 20150347638
