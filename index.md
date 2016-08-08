@@ -1,65 +1,37 @@
 ---
 layout: default
-title: Anurag Khandelwal
+title: Ayush Patwari
 ---
 # About
 
-I'm a Graduate Student at the University of California, Berkeley, pursuing my 
-PhD at the AMPLab and advised by Prof. Ion Stoica. I completed my bachelor's 
+I'm a Graduate Student at the Purdue University, Indiana, pursuing my 
+Master in Computer Science. I work at the DCSL Lab advised by Prof. Saurabh Bagchi. I completed my bachelor's 
 degree (B. Tech. in Computer Science and Engineering) from the Indian Institute 
-of Technology, Kharagpur.
+of Technology, Kharagpur in 2013.
 
 # Projects
 
 **Ongoing:**
 
-Queries on Compressed data: 
+Identifying undesirable behavior in crowdsourced systems: 
 
-* [Succinct: Enabling Queries on compressed data](http://cs.berkeley.edu/~anuragk/papers/succinct.pdf)
-* [BlowFish: Dynamic Storage-Performance Tradeoff in Data Stores](http://cs.berkeley.edu/~anuragk/papers/blowfish.pdf)
-* [Swift: Regular Expression Queries on Compressed Data](http://cs.berkeley.edu/~anuragk/papers/swift.pdf)
-* [ZipG: Serving Queries on Compressed Graphs](http://cs.berkeley.edu/~anuragk/papers/zipg.pdf)
+* Towards Automated Fact-checking for detecting false statements in political campaigns 
+* [Detecting Spam Campaigns on Web Forums through Dependency Modeling](http://cs.berkeley.edu/~anuragk/papers/succinct.pdf)
+* [NIRMALYA:Detecting Spam Videos on Online Video Sharing Portals](http://cs.berkeley.edu/~anuragk/papers/blowfish.pdf)
 
-Data Structures for fast networks:
+Understanding the error behavior in large scale HPC clusters:
 
-* Space-efficient range indexes for FARM
+* Study on spatial correlation between errors at the granularity of actual physical layout to predict vulnerable regions and job overloading
 
 **Past:**
 
 Networking:
 
-* [Attacking Data Center Networks](http://cs.berkeley.edu/~anuragk/papers/dcn.pdf)
+* [Tennis game analysis using wearable sensors data]()
 * Routing in DTNs with Directional Antennas
 
-# Publications
+# Publications and Patents
 
-[BlowFish: Dynamic Storage-Performance Tradeoff in Data Stores](http://cs.berkeley.edu/~anuragk/papers/blowfish.pdf)<br>
-**Anurag Khandelwal**, Rachit Agarwal, Ion Stoica<br>
-NSDI, Santa Clara, CA, March 2016
-
-[Succinct: Enabling Queries on Compressed Data](http://cs.berkeley.edu/~anuragk/papers/succinct.pdf)<br>
-Rachit Agarwal, **Anurag Khandelwal**, Ion Stoica<br>
-NSDI, Oakland, CA, May 2015
-
-[Attacking Data Center Networks from the Inside](http://cs.berkeley.edu/~anuragk/papers/dcn.pdf)<br>
-**Anurag Khandelwal**, Navendu Jain, Seny Kamara<br>
-MSR Technical Report MSR-TR-2015-52, June 2015
-
-# Teaching
-
-[CS168: Introduction to the Internet: Architecture and Protocols](https://inst.eecs.berkeley.edu/~cs168/fa14/)<br> 
-Fall 2014
-
-# Talks
-
-Succinct: Fast Interactive Queries<br>
-Elasticsearch Meetup, San Francisco, CA, June 2016
-
-BlowFish: Dynamic Storage-Performance Tradeoff in Data Stores<br>
-NSDI, Santa Clara, CA, March 2016
-
-BlowFish: Dynamic Storage-Performance Tradeoff in Data Stores<br>
-AMPLab Retreat, Tahoe, CA, Jan 2016
-
-Succinct: Enabling Queries on Compressed Data<br>
-AMPLab Retreat, Asilomer Conference Grounds, CA, Jan 2015
+[METHOD AND DEVICE FOR GENERATING DATA REPRESENTING STRUCTURE OF ROOM](http://www.freepatentsonline.com/20150347638.pdf)<br>
+**Ayush Patwari**, Gaurav Mishra, Rupika Srivastava, Aloknath De, Deepraj Patkar<br>
+United States Patent Application 20150347638
