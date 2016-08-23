@@ -25,7 +25,7 @@ Understanding the DRAM errors in large scale HPC clusters @LLNL:
 
 **Past:**
 
-* [Tennis game analysis using wearable sensors data](./papers/sensors15.pdf)
+* [Tennis game analysis using wearable sensors data](https://play.google.com/store/apps/details?id=com.smartsports.tennistutorui)
 * Routing in Delay Tolerant Networks with Directional Antennas
 
 # Publications and Patents
