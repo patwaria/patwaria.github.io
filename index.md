@@ -6,9 +6,9 @@ title: Ayush Patwari
 
 I'm a Graduate Student at the Purdue University, Indiana, pursuing my 
 Masters(thesis) in Computer Science. I work at the DCSL Lab advised by Prof. Saurabh Bagchi. I completed my bachelor's 
-degree (B. Tech. in Computer Science and Engineering) from the Indian Institute 
-of Technology, Kharagpur in 2013.
+degree (B. Tech. in CSE) from the Indian Institute of Technology, Kharagpur in 2013.
 
+Update -- I will be working @Google starting Aug 2017. 
 # Projects
 
 **Ongoing:**
