@@ -3,7 +3,7 @@ name: Ayush Patwari, Graduate Student
 # Variables set by GitHub
 safe: true
 lsi: false
-highlighter: pygments
+highlighter: rouge
 source: .
 
 # Use nice sensible URLs like:
