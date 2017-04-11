@@ -1,12 +1,10 @@
-name: Anurag Khandelwal, Graduate Student
+name: Ayush Patwari, Graduate Student
 
 # Variables set by GitHub
 safe: true
 lsi: false
-highlighter: pygments
+highlighter: rouge
 source: .
-
-markdown: redcarpet
 
 # Use nice sensible URLs like:
 #
