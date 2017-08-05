@@ -11,19 +11,15 @@ degree (B. Tech. in CSE) from the Indian Institute of Technology, Kharagpur in 2
 Update -- I will be working @Google starting Aug 2017. 
 # Projects
 
-**Ongoing:**
-
 Identifying undesirable behavior in crowdsourced systems: 
 
-* Towards Automated Fact-checking in political campaigns 
-* [Detecting Spam Campaigns on Web Forums through Dependency Modeling]()
-* [NIRMALYA: Detecting Spam Videos on Online Video Sharing Portals]()
+* TATHYA: Towards Automated Fact-checking in political campaigns 
+* NIRMALYA: Detecting Spam Videos on Online Video Sharing Portals
+* Detecting Spam Campaigns on Web Forums through Dependency Modeling
 
 Understanding the DRAM errors in large scale HPC clusters @LLNL:
 
 * Study on spatial correlation between memory errors at the granularity of actual physical layout to predict vulnerable regions, job overloading etc. and develop mitigating technqiues. 
-
-**Past:**
 
 * [Tennis game analysis using wearable sensors data](https://play.google.com/store/apps/details?id=com.smartsports.tennistutorui)
 * Routing in Delay Tolerant Networks with Directional Antennas
