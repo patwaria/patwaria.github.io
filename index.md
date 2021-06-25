@@ -4,31 +4,25 @@ title: Ayush Patwari
 ---
 # About
 
-I'm a Graduate Student at the Purdue University, Indiana, pursuing my 
-Masters(thesis) in Computer Science. I work at the DCSL Lab advised by Prof. Saurabh Bagchi. I completed my bachelor's 
-degree (B. Tech. in CSE) from the Indian Institute of Technology, Kharagpur in 2013.
+I am currently a Software Engineer @ Youtube where I work on ML applications and infrastructure for better music understanding. Most recently our team helped launch [personalized mood experiences](https://blog.youtube/news-and-events/youtube-music-brings-personalization-your-everyday-moods-and-moments/) in YouTube Music. See our recent [paper](https://program.ismir2020.net/static/final_papers/125.pdf) for more details.
 
-Update -- I will be working @Google starting Aug 2017. 
-# Projects
+Before that I  was a grad student at the Purdue University, Indiana, pursuing my Masters (thesis) in Computer Science and was part of DCSL Lab advised by Prof. Saurabh Bagchi. 
+I completed my bachelor's degree (B. Tech. in CSE) from the Indian Institute of Technology, Kharagpur.
 
-Identifying undesirable behavior in crowdsourced systems: 
-
-* TATHYA: Towards Automated Fact-checking in political campaigns 
-* NIRMALYA: Detecting Spam Videos on Online Video Sharing Portals
-* Detecting Spam Campaigns on Web Forums through Dependency Modeling
-
-Understanding the DRAM errors in large scale HPC clusters @LLNL:
-
-* Study on spatial correlation between memory errors at the granularity of actual physical layout to predict vulnerable regions, job overloading etc. and develop mitigating technqiues. 
-
-* [Tennis game analysis using wearable sensors data](https://play.google.com/store/apps/details?id=com.smartsports.tennistutorui)
-* Routing in Delay Tolerant Networks with Directional Antennas
+I also worked briefly at Samsung R&D Institute, India as part of a focused research group working on future technology for smart devices. A fun project we worked on was Tennis game analysis using wearable sensors data.
 
 # Publications and Patents
 
+Ayush Patwari, Jun Wang, Michele Covell, Nicholas Chi-Yuen Kong, Ullas Gargi
+[Semantically Meaningful Attributes from Cowatch Embeddings for Playlist Exploration and Expansion, ISMIR 2020](https://program.ismir2020.net/static/final_papers/125.pdf)
+
+Priyank Palod, Ayush Patwari, Sudhanshu Bahety, Saurabh Bagchi, Pawan Goyal
+[Misleading Metadata Detection on YouTube, European Conference on Information Retrieval 2019](https://arxiv.org/pdf/1901.08759.pdf)
+
+
 Patwari, Ayush and Goldwasser Dan and Bagchi Saurabh.
 [Tathya: A Multi-Classifier System for Detecting Check-Worthy
-Statements in Political Debates, CIKM 2017 (to Appear)](./papers/cikm-tathya.pdf)
+Statements in Political Debates, CIKM 2017](./papers/cikm-tathya.pdf)
 
 
 Ayush Patwari, Ignacio Laguna, Martin Schulz, and Saurabh Bagchi. 2017. [Understanding the Spatial Characteristics of DRAM Errors in HPC Clusters](../papers/ftxs.pdf). In Proceedings of the 2017 Workshop on Fault-Tolerance for HPC at Extreme Scale (FTXS '17). ACM, New York, NY, USA, 17-22
